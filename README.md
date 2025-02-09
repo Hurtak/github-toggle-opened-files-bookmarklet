@@ -1,4 +1,4 @@
-# Toggle opened/collapsed files in GitHub files changes PR view
+# Toggle opened/collapsed files in GitHub pull-request
 
 Bookmarklet that
 
