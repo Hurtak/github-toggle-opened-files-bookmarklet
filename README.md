@@ -5,7 +5,7 @@ Bookmarklet that
 - collapses files that are currently opened
 - opens files that are currently collapsed
 
-![Bookmarklet preview](preview.gif)
+<img src="preview.gif" alt="Bookmarklet preview" width="864" height="802" />
 
 ## Put inside your bookmarks
 
